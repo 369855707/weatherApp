@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 4904,
+  "expoServerNgrokUrl": "https://cv-peb.wskardelsharpeye.weather.exp.direct",
+  "packagerNgrokUrl": "https://packager.cv-peb.wskardelsharpeye.weather.exp.direct",
+  "ngrokPid": 5824,
+  "webpackServerPort": 19006
+}
